@@ -1,0 +1,12 @@
+.factorypath
+.classpath
+.project
+.settings
+.idea
+/data
+__MACOSX
+target
+logs
+*.iml
+*.env
+*.module.yaml
